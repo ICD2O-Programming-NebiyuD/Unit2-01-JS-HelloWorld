@@ -9,3 +9,4 @@ function myButtonClicked() {
   
   document.getElementById("hello-world").innerHTML = "I coded this in Javascript! I think the square root of 25 is 5?"
 }
+console.timeLog
